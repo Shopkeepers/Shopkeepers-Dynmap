@@ -297,7 +297,7 @@ public class ShopkeepersDynmap {
 		var marker = markerSet.createMarker(
 				this.getMarkerId(shopkeeper),
 				this.getMarkerLabel(shopkeeper),
-				true, // Process label as HTML
+				false, // Don't process label as HTML since this can be controlled by players
 				worldName,
 				shopkeeper.getX() + 0.5D,
 				shopkeeper.getY() + 0.5D,
