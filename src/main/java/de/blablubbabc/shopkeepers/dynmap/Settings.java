@@ -24,14 +24,6 @@ public class Settings {
 		return plugin.getConfig().getString("markers." + shopTypeId + ".icon", "");
 	}
 
-	public int getMarkerAnchorX(String shopTypeId) {
-		return plugin.getConfig().getInt("markers." + shopTypeId + ".anchor-x");
-	}
-
-	public int getMarkerAnchorY(String shopTypeId) {
-		return plugin.getConfig().getInt("markers." + shopTypeId + ".anchor-y");
-	}
-
 	public String getMarkerLabel(String shopTypeId) {
 		return plugin.getConfig().getString("markers." + shopTypeId + ".label", "");
 	}

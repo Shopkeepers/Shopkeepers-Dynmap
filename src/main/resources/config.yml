@@ -8,29 +8,19 @@ marker-set-name: "Shops"
 # Supported placeholders for labels: shop_id, shop_uuid, shop_name (uses the shop id as fallback), shop_owner_name
 markers:
   admin:
-    icon: "shopkeepers-admin24"
-    anchor-x: 12
-    anchor-y: 12
+    icon: "shopkeepers-admin16"
     label: "{shop_name}"
   sell:
-    icon: "shopkeepers-sell24"
-    anchor-x: 12
-    anchor-y: 12
+    icon: "shopkeepers-sell16"
     label: "{shop_owner_name}'s {shop_name} (selling)"
   buy:
-    icon: "shopkeepers-buy24"
-    anchor-x: 12
-    anchor-y: 12
+    icon: "shopkeepers-buy16"
     label: "{shop_owner_name}'s {shop_name} (buying)"
   trade:
-    icon: "shopkeepers-trade24"
-    anchor-x: 12
-    anchor-y: 12
+    icon: "shopkeepers-trade16"
     label: "{shop_owner_name}'s {shop_name} (trading)"
   book:
-    icon: "shopkeepers-book24"
-    anchor-x: 12
-    anchor-y: 12
+    icon: "shopkeepers-book16"
     label: "{shop_owner_name}'s {shop_name} (books)"
 # The marker detail text.
 # Supported placeholders: shop_id, shop_uuid, shop_type, shop_object_type, shop_offers_count, shop_owner_name
