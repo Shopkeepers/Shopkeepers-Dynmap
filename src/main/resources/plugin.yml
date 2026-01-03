@@ -1,0 +1,26 @@
+name: Shopkeepers-Dynmap
+version: '${pluginVersion}'
+authors: [blablubbabc]
+website: '${pluginUrl}'
+description: '${pluginDescription}'
+
+main: de.blablubbabc.shopkeepers.dynmap.ShopkeepersDynmapPlugin
+api-version: '1.21.5'
+depend: [Shopkeepers, dynmap]
+
+commands:
+    shopkeepers-dynmap:
+        description: Base for all Shopkeepers-Dynmap commands.
+        aliases: [shopkeeper-dynmap, skdm]
+        usage: 'Unknown command! Try /<command> help'
+
+permissions:
+    shopkeepers-dynmap.help:
+        description: Display the command help
+        default: true
+    shopkeepers-dynmap.reload:
+        description: Reload the plugin
+        default: op
+    shopkeepers-dynmap.update-icons:
+        description: Update the Dynmap marker icons
+        default: op
