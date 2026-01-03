@@ -6,7 +6,7 @@ This is a Bukkit plugin that shows shopkeepers as markers on the [Dynmap](https:
 
 - An up-to-date [Spigot](https://www.spigotmc.org/) or [Paper](https://papermc.io/) Minecraft server. Tested on: Spigot 1.21.11
 - [Shopkeepers plugin](https://www.spigotmc.org/resources/shopkeepers.80756/). Tested on: 2.25.0
-- [Dynmap plugin](https://www.spigotmc.org/resources/dynmap%C2%AE.274/). Tested on: 3.7-beta-10
+- [Dynmap plugin](https://www.spigotmc.org/resources/dynmap%C2%AE.274/). Tested on: 3.7-beta-11-1.21.11-spigot (jacob1 fork).
 
 ## Installation
 
