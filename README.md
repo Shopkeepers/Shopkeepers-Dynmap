@@ -1,4 +1,5 @@
-# Shopkeepers Dynmap Integration
+# Shopkeepers Dynmap Integration ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Shopkeepers/Shopkeepers-ExecutableItems/total?style=flat-square&color=green)
+
 
 This is a Bukkit plugin that shows shopkeepers as markers on the [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/).
 
