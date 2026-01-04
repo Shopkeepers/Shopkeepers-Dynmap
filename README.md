@@ -11,6 +11,7 @@ This is a Bukkit plugin that shows shopkeepers as markers on the [Dynmap](https:
 
 ## Installation
 
+- Download the plugin jar (see [Releases](https://github.com/Shopkeepers/Shopkeepers-Dynmap/releases)).
 - Drop the plugin jar into your Bukkit server's `plugins` folder.
 - Restart your server.
 - Adjust the `plugins/Shopkeepers-Dynmap/config.yml` file as needed.
